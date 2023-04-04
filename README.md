@@ -10,7 +10,7 @@ To run the script, you need Python 3.x installed on your machine.
 - Install the required packages using the following command:
 
 ``` pip install requests ```
-Open the script file in your preferred Python IDE or text editor.
+- Open the script file in your preferred Python IDE or text editor.
 
 ## Usage
 To use the script, you need to provide two arguments: the transaction hash and your Blockchair API key. You can get your API key by signing up for a free account on Blockchair.

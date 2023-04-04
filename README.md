@@ -9,7 +9,7 @@ To run the script, you need Python 3.x installed on your machine.
  - Clone the repository to your local machine.
 - Install the required packages using the following command:
 
-``` pip install requests ```
+```py pip install requests ```
 - Open the script file in your preferred Python IDE or text editor.
 
 ## Usage

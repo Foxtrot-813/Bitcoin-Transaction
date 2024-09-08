@@ -1,5 +1,5 @@
 # Bitcoin Transaction Information Script
-This is a Python script that retrieves information about a Bitcoin transaction and displays it in a human-readable format. The script uses the Blockchair API to retrieve the transaction data and wallet information.
+This is a Python script that retrieves information about a Bitcoin transactions and tracks cybercriminal wallets, presenting the data in a user-friendly format. The script uses the Blockchair API to retrieve the transaction data and wallet information.
 
 ## Getting Started
 ### Prerequisites
